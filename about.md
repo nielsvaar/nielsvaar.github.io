@@ -1,11 +1,14 @@
 ##### contact
 alexanderporto@posteo.net 
 ##### education
-PhD Candidate | Duquesne University | 2022 - Present  
-MSc Developmental Psychology, Philosophy, & Cognitive Anthropology (Early Childhood Research) | Universität Leipzig | 2018 - 2020  
+ph.d. candidate | duquesne university | 2022 - present  
+m.sc. developmental psychology, philosophy, & cognitive anthropology (early childhood research) | universität leipzig | 2018 - 2020  
+#### generative sounds
+
 ##### texts 
-[*Understanding Transition for Youth with Spinal Cord Injury: Youth and Caregiver Perceptions*](https://pubmed.ncbi.nlm.nih.gov/30758272/)
+[*understanding transition for youth with spinal cord injury: youth and caregiver perceptions*](https://pubmed.ncbi.nlm.nih.gov/30758272/)
 ##### presentations 
-*Reified Childhood: Examining the Psychoanalytic Implications of Social Reification During Child Development* | Emory University - Symposium for Psychoanalysis & Politics | October 2022 
+*reified childhood: examining the psychoanalysis implications of social reification in child development* | emory univeristy: symposium for psychoanalysis & politics | october 2022 
+
     
   
