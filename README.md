@@ -1,3 +1,4 @@
+title: /
 
 ![generative dots](/docs/assets/prt_800x536_1593189530.gif)
 ##### *476. Das Kind lernt nicht, daß es Bücher gibt, daß es sessel Gibt, etc. etc., sondern es lernt Bücher holen, sich auf sessel (zu) setzen, etc.* 
@@ -6,3 +7,5 @@
 
 
 [alexander porto](/about.md)  
+markdown: kramdown 
+remote_theme: b2a3e8/jekyll-theme-console
