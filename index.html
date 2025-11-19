@@ -37,6 +37,22 @@
       height: auto;
       border-radius: 0;   
     }
+      /* Mobile scaling */
+@media (max-width: 768px) {
+    body {
+      margin: 10px;  /* less margin on mobile */
+    }
+    
+    .profile-pic {
+      float: none;        /* remove float */
+      margin: 20px auto;  /* center it */
+      max-width: 100%;    /* let it be full width on mobile */
+    }
+    
+    h1 {
+      font-size: 1.5em;   /* slightly smaller heading */
+    }
+  }
   </style>
 </head>
 <body>
